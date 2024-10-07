@@ -120,8 +120,5 @@ To run this project, you will need to add the following environment variables to
 - Vs code
 ## Need help:
 
-#### contact me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-godbole-b4a17224b/)
-
-#### mail - ayushgodbole31@gmail.com
+ 
 
